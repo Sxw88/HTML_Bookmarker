@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632825599 source:c:\users\xuan wei\documents\programming\cpp\html_bookmarker\main.cpp
+	<windows.h>
+	<string>
+	<vector>
+
